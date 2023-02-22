@@ -1,10 +1,10 @@
 <scheme name="Zenburn copy1" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2022-04-08T10:50:11</property>
+    <property name="created">2023-02-22T10:44:40</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-08T10:50:28</property>
+    <property name="ideVersion">2022.3.2.0.0</property>
+    <property name="modified">2023-02-22T10:45:21</property>
     <property name="originalScheme">Zenburn copy1</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
@@ -281,7 +281,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FOREGROUND" value="8acccf" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -357,7 +357,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d4c4a9" />
+        <option name="FOREGROUND" value="8acccf" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -373,6 +373,11 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="f0efd0" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="8acccf" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -495,6 +500,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
