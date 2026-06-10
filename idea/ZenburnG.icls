@@ -1,45 +1,43 @@
-<scheme name="Zenburn copy1" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+<scheme name="Zenburn Glubo" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-02-22T10:44:40</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-22T10:45:21</property>
-    <property name="originalScheme">Zenburn copy1</property>
+    <property name="ideVersion">2026.1.2.0.0</property>
+    <property name="originalScheme">Zenburn Glubo</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="CARET_COLOR" value="bbbbbb" />
+    <option name="CARET_COLOR" value="BBBBBB" />
     <option name="CARET_ROW_COLOR" value="505050" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="629755" />
-    <option name="FILESTATUS_DELETED" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_DELETED" value="6C6C6C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C6C6C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_MERGED" value="9876AA" />
+    <option name="FILESTATUS_MODIFIED" value="6897BB" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897BB" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897BB" />
+    <option name="FILESTATUS_UNKNOWN" value="D1675A" />
     <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
+    <option name="FILESTATUS_changelistConflict" value="D5756C" />
+    <option name="FILESTATUS_modifiedOutside" value="6897BB" />
     <option name="GUTTER_BACKGROUND" value="404040" />
     <option name="INDENT_GUIDE" value="898941" />
-    <option name="LINE_NUMBERS_COLOR" value="c0c0c0" />
+    <option name="LINE_NUMBERS_COLOR" value="C0C0C0" />
     <option name="METHOD_SEPARATORS_COLOR" value="505050" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="MODIFIED_LINES_COLOR" value="415F69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="0" />
+    <option name="SELECTED_INDENT_GUIDE" value="000000" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
     <option name="SELECTION_BACKGROUND" value="898941" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_FOREGROUND" value="000000" />
     <option name="TEARLINE_COLOR" value="505050" />
     <option name="WHITESPACES" value="505050" />
   </colors>
@@ -500,7 +498,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -529,16 +526,28 @@
         <option name="FOREGROUND" value="f6f3e8" />
       </value>
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="dcdccc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="5b5b5b" />
-        <option name="BACKGROUND" value="ededed" />
+        <option name="FOREGROUND" value="dcdccc" />
+        <option name="BACKGROUND" value="262626" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="dcdccc" />
+        <option name="BACKGROUND" value="222222" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="3c3c3c" />
-        <option name="BACKGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="efefef" />
+        <option name="BACKGROUND" value="ccdc90" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
