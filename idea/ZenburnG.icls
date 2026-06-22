@@ -12,6 +12,7 @@
     <option name="CARET_COLOR" value="BBBBBB" />
     <option name="CARET_ROW_COLOR" value="505050" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DOCUMENTATION_COLOR" value="404040" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6C6C6C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C6C6C" />
@@ -30,8 +31,10 @@
     <option name="GUTTER_BACKGROUND" value="404040" />
     <option name="INDENT_GUIDE" value="898941" />
     <option name="LINE_NUMBERS_COLOR" value="C0C0C0" />
+    <option name="LOOKUP_COLOR" value="404040" />
     <option name="METHOD_SEPARATORS_COLOR" value="505050" />
     <option name="MODIFIED_LINES_COLOR" value="415F69" />
+    <option name="PROMOTION_PANE" value="404040" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="000000" />
@@ -39,6 +42,7 @@
     <option name="SELECTION_BACKGROUND" value="898941" />
     <option name="SELECTION_FOREGROUND" value="000000" />
     <option name="TEARLINE_COLOR" value="505050" />
+    <option name="WARNING_HINT" value="404040" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
